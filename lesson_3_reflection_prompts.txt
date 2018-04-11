@@ -11,7 +11,9 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks are good when you find a file, you can fork it and if the file is simple you can make the changes on GitHub servers without cloning file to th local. But all the forks will connect with original.
+    After forking you can clone the repo to the local, make some changes and the original wouldn't know nothing about it.
+    And branches is from different area. You can use master or you can create a testing branch for your features and than merge it with master if it will be useful.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
