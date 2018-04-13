@@ -28,4 +28,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    As I wrote earlier, if I work on the project itself, I can create a test branch for testing new features, changing the content of the site, changing the concept of the project, and so on. Often this is good, because I do not clog the master branch working on the test branch. Working together, you need to be more careful not to miss some change of a colleague and do not forget the addition.
+    In my opinio its a good practice.
